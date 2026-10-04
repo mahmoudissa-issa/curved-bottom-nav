@@ -16,7 +16,7 @@ A floating bottom navigation bar for React. The selected tab's icon sits in a wh
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/curved-bottom-nav.git
+git clone https://github.com/mahmoudissa-issa/curved-bottom-nav.git
 cd curved-bottom-nav
 npm install
 npm run dev
